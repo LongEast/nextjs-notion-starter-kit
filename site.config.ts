@@ -2,16 +2,16 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: 'https://fringe-clerk-20b.notion.site/461e55cc389d4dbe91ec5db53a032bb0?v=1ab4406d38c942018d794898f0c1c370&pvs=4',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: '由PTA题目理解python基础知识',
+  domain: 'https://fringe-clerk-20b.notion.site/461e55cc389d4dbe91ec5db53a032bb0?v=1ab4406d38c942018d794898f0c1c370',
+  author: 'LongEast',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
