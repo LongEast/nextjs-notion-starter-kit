@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '由PTA题目理解python基础知识',
-  domain: 'https://fringe-clerk-20b.notion.site/461e55cc389d4dbe91ec5db53a032bb0?v=1ab4406d38c942018d794898f0c1c370',
+  domain: '461e55cc389d4dbe91ec5db53a032bb0?v=1ab4406d38c942018d794898f0c1c370',
   author: 'LongEast',
 
   // open graph metadata (optional)
